@@ -15,7 +15,7 @@ The course is *not* about becoming a developer: it's about becoming fluent, that
 
 ## Why
 
-First and foremost, because it's fun. As someone who enjoys solving problems, I don't know how I didn't discover this soon. And second, because I'm making a deliberate transition into the AI industry. I want to work at an AI company, not in a technical role, but in one that sits close to the technical work: product, operations, strategy, or a role that bridges technical and non-technical teams.
+First and foremost, because it's fun. As someone who enjoys solving problems, I don't know how I didn't think of/discover this sooner. And second, because I'm making a deliberate transition into the AI industry. I want to work at an AI company, not in a technical role, but in one that sits close to the technical work: product, operations, strategy, or a role that bridges technical and non-technical teams.
 
 To do that well, I need more than surface-level familiarity with the technology. I need to understand how developers think, what they mean  when they use specific language and how the systems I'll be working  alongside actually function. Tech Fluency is how I'm building that.
 
