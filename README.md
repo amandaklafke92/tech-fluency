@@ -71,6 +71,6 @@ It's still evolving (I'm only up to lesson 4 myself), but so far we have:
 
 Python (as the teaching language) · Claude (Anthropic) · Notion · GitHub
 
-## Status
+## A note on evolution
 
-Active — updated regularly as new sessions are completed.
+This course is being built as I learn the material myself; in other words, each session is not exactly pre-designed. This also means that the teaching approach and structure evolve across lessons as I discover what works. Where lessons have been revised, a version note and last updated date appears at the top of the lesson plan. If you'd like to access earlier versions, the full commit history is available on GitHub.
