@@ -44,6 +44,17 @@
 - Reading and writing data — files, APIs
 - AI-specific literacy — models, training, prompts in code
 
+
+---
+
+## Spaced repetition flags
+
+| Concept | Status | Notes |
+|---|---|---|
+| `print()` output location | ✅ Solid | Fuzzy in S2, resolved by S3 |
+| Parameter vs. argument | 🔄 Monitor | Correct in S3 quiz but recently learned — revisit naturally in S4 |
+| "Parameter = also a variable" | ⬜ Parked | Hold until contextually natural |
+
 ---
 
 *Last updated: March 2026*
