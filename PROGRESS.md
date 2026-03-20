@@ -16,7 +16,7 @@
 
 ## Foundations
 
-| Session | Topic | Status |
+| Lesson | Topic | Status |
 |---|---|---|
 | 01 | Introduction to Python — `print()`, variables, data types | ✅ |
 | 02 | Functions — `def`, parameters, return values | ✅ |
@@ -27,7 +27,7 @@
 
 ## Field Guide
 
-| Concept | Session | Status |
+| Concept | Lesson | Status |
 |---|---|---|
 | print() and silent code | 01 | ✅ |
 | Variables and DRY | 01 | ✅ |
@@ -51,8 +51,8 @@
 
 | Concept | Status | Notes |
 |---|---|---|
-| `print()` output location | ✅ Solid | Fuzzy in S2, resolved by S3 |
-| Parameter vs. argument | 🔄 Monitor | Correct in S3 quiz but recently learned — revisit naturally in S4 |
+| `print()` output location | ✅ Solid | Fuzzy in L2, resolved by L3 |
+| Parameter vs. argument | 🔄 Monitor | Correct in L3 quiz but recently learned — revisit naturally in L4 |
 | "Parameter = also a variable" | ⬜ Parked | Hold until contextually natural |
 
 ---
