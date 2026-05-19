@@ -21,7 +21,7 @@
 | 01 | Introduction to Python — `print()`, variables, data types | ✅ |
 | 02 | Functions — `def`, parameters, return values | ✅ |
 | 03 | Conditionals — `if`, `elif`, `else`, comparison operators | ✅ |
-| 04 | Loops | ⬜ |
+| 04 | Loops | ✅ |
 
 ---
 
@@ -52,9 +52,11 @@
 | Concept | Status | Notes |
 |---|---|---|
 | `print()` output location | ✅ Solid | Fuzzy in L2, resolved by L3 |
-| Parameter vs. argument | 🔄 Monitor | Correct in L3 quiz but recently learned — revisit naturally in L4 |
+| Parameter vs. argument | 🔄 Monitor | Still shaky in L4 quiz — revisit naturally in L5 |
 | "Parameter = also a variable" | ⬜ Parked | Hold until contextually natural |
 
 ---
 
-*Last updated: March 2026*
+| Loop vs conditional distinction | 🔄 Monitor | Introduced in L4, not drilled — revisit in L5 quiz |
+
+*Last updated: May 2026*
